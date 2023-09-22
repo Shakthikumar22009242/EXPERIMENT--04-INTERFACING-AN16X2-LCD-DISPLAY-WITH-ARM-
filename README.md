@@ -195,7 +195,8 @@ MX_GPIO_Init();
  ![](PMC04-1.png)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ [PMC04.PDF](https://github.com/Shakthikumar22009242/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/files/12698854/PMC04.PDF)
+
  
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
